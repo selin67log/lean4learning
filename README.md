@@ -1,2 +1,3 @@
 # lean4learning
-im trying to learn lean
+I'm trying to learn lean
+this is my general use lean storage 
